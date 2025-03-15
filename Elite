@@ -1,0 +1,7 @@
+echo Flask > requirements.txt
+echo requests >> requirements.txt
+echo numpy >> requirements.txt
+echo scikit-learn >> requirements.txt
+echo waitress >> requirements.txt
+echo logging >> requirements.txt
+echo gunicorn >> requirements.txt
