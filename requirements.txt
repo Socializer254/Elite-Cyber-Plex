@@ -1,0 +1,7 @@
+Flask
+requests
+numpy
+scikit-learn
+waitress
+logging
+gunicorn
