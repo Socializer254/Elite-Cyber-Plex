@@ -1,1 +1,9 @@
-App
+/your_project
+│── app/
+│   ├── __init__.py
+│   ├── main.py
+│   ├── routes.py
+│── run.py
+│── requirements.txt
+│── config.py
+
